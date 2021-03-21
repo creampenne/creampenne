@@ -25,6 +25,9 @@
 <a href="https://www.facebook.com/1.whateveruwant" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
+<a href="https://stackoverflow.com/users/11621217" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
   
 <div align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1-whateveruwant&count_bg=%23A4C8D1&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true"/></a>
