@@ -27,7 +27,7 @@
 </a>  
   
 <div align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1-whateveruwant&count_bg=%23A4C8D1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true"/></a>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1-whateveruwant&count_bg=%23A4C8D1&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true"/></a>
 </div>  
 
 <br/>  
