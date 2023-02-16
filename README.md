@@ -20,16 +20,23 @@
 ![Mysql](https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white)
 
 
-### 💫 Experience
+### 💫 Career
 
-- HACTOR(KUCIS) 동아리 임원 (2022.03 ~ )
+- HACTOR(KUCIS) 동아리 운영진 (2022.03 ~ )
 - 육군 전술C4I운용/정비병 (2021.04 ~ 2022.10)
 - 대전대학교 정보보안학과 (2018.03 ~ )
+- KITRI Best of the Best(BoB) 11기 취약점분석 트랙 (2022.07 ~)
 
-### 🎖 Prize
+### 🎖 Experience
 
 - 대전대학교 제 1회 IoT보안 비상대응 경진대회 대상
+- KUCIS 2022 영남권역 세미나 발표 (IoT로 발전하는 세상 따라잡기)
+- (주)브로제이 정보보호 컨설팅 수행
   
+### 📖 Research
+
+- STRIDE 위협 모델링을 통한 무인 매장 보안성 강화에 관한 연구 (한국정보보호학회 동계학술대회, 2022)
+- IoT Hub 보안성 향상을 위한 취약점 분석 프로세스에 관한 연구 (한국정보과학회 UCWIT, 2022)
   
 <div align="center">
 <a href="mailto:f2527@edu.dju.ac.kr">
